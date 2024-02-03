@@ -1,0 +1,14 @@
+G:\VS Projects\Random Projects\Fuckery\bin\Debug\net8.0\Fuckery.exe
+G:\VS Projects\Random Projects\Fuckery\bin\Debug\net8.0\Fuckery.deps.json
+G:\VS Projects\Random Projects\Fuckery\bin\Debug\net8.0\Fuckery.runtimeconfig.json
+G:\VS Projects\Random Projects\Fuckery\bin\Debug\net8.0\Fuckery.dll
+G:\VS Projects\Random Projects\Fuckery\bin\Debug\net8.0\Fuckery.pdb
+G:\VS Projects\Random Projects\Fuckery\obj\Debug\net8.0\Fuckery.GeneratedMSBuildEditorConfig.editorconfig
+G:\VS Projects\Random Projects\Fuckery\obj\Debug\net8.0\Fuckery.AssemblyInfoInputs.cache
+G:\VS Projects\Random Projects\Fuckery\obj\Debug\net8.0\Fuckery.AssemblyInfo.cs
+G:\VS Projects\Random Projects\Fuckery\obj\Debug\net8.0\Fuckery.csproj.CoreCompileInputs.cache
+G:\VS Projects\Random Projects\Fuckery\obj\Debug\net8.0\Fuckery.dll
+G:\VS Projects\Random Projects\Fuckery\obj\Debug\net8.0\refint\Fuckery.dll
+G:\VS Projects\Random Projects\Fuckery\obj\Debug\net8.0\Fuckery.pdb
+G:\VS Projects\Random Projects\Fuckery\obj\Debug\net8.0\Fuckery.genruntimeconfig.cache
+G:\VS Projects\Random Projects\Fuckery\obj\Debug\net8.0\ref\Fuckery.dll
